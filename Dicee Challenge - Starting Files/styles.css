@@ -1,0 +1,58 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #ffc400;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #0d6efd;;
+}
+
+p {
+  font-size: 2rem;
+  color: #000000;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bolder;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #ffffff;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bolder;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+footer a{
+  text-decoration: none;
+  color: #ffffff;
+  font-family: cursive;
+  font-weight: bolder;
+}
+
+a:hover{
+  color: #232931;
+}
+
